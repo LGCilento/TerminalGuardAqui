@@ -1,5 +1,11 @@
-#page{
+body{
     width: 480px;
     height: 800px;
-    background-color: darkgray;
+
+}
+
+#img{
+    height: 400px;
+    width: 440px;
+    background-color: black;
 }
